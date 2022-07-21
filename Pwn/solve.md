@@ -25,4 +25,4 @@ ynetd.c
 $ cat flag
 BDSEC{pwn_is_the_way_to_haven}
 ```
-![pwn1.png]
+![](pwn1.png)
